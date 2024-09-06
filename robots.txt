@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://siclutalap.github.io/sitemap.html.gz
+Sitemap: https://siclutalap.github.io/app/sitemap.html.gz
+Sitemap: https://siclutalap.github.io/assets/sitemap.html.gz
+Sitemap: https://siclutalap.github.io/css/sitemap.html.gz
+Sitemap: https://siclutalap.github.io/includes/sitemap.html.gz
+Sitemap: https://siclutalap.github.io/item/sitemap.html.gz
+Sitemap: https://siclutalap.github.io/src/sitemap.html.gz
